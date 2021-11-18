@@ -1,0 +1,29 @@
+_repo: Es-Percipi_66646
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Marlowe, Stephen
+    aliases:
+    - Granger, Darius John
+    - Ridgway, Jason
+    - Chase, Adam
+    - Thames, C. H.
+    - Lesser, Milton
+    - Wilder, Stephen
+    birthdate: 1928
+    deathdate: 2008
+    gutenberg_agent_id: '32369'
+    url: http://www.gutenberg.org/2009/agents/32369
+    wikipedia: https://en.wikipedia.org/wiki/Stephen_Marlowe
+description: ''
+gutenberg_issued: '2021-11-01'
+identifiers:
+  gutenberg: '66646'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Es Percipi
+url: http://www.gutenberg.org/ebooks/66646
